@@ -1,6 +1,5 @@
 # AI-Based TB Surveillance in South Africa using Google Trends
-
-This repository contains the research implementation and findings for AI-based surveillance of Tuberculosis in South Africa using Google Trends data, completed as part of an Honours research project at the University of the Witwatersrand.
+Tuberculosis (TB) remains a critical public health issue globally, with the WHO Global TB Report 2024 confirming TB as the world's deadliest disease. South Africa has one of the highest TB burdens globally, reporting an estimated 56,000 TB-related deaths in 2023. Traditional surveillance is constrained by reporting delays, incomplete case capture, and poor data quality, driving the need for more efficient approaches to disease surveillance. This repository contains the research implementation and findings for AI-based surveillance of Tuberculosis in South Africa using Google Trends data, establishing the potential of Google search data as a cheaper and faster proxy for TB surveillance in SA.
 
 ## Repository Structure
 
