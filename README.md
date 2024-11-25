@@ -89,7 +89,7 @@ cd AI-Based-TB-Surveillance
 2. Set up environment
 ```bash
 python -m venv venv
-.\venv\Scripts\activate  # Windows
+.\venv\Scripts\activate.bat  # Windows
 source venv/bin/activate # Linux/Mac
 ```
 
